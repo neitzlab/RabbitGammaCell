@@ -1,0 +1,106 @@
+{
+	"synapses": null,
+	"STRUCTURE": "Neuron",
+	"ID": 158710,
+	"source": "RC1",
+	"viking": {
+		"@odata.context": "http:\/\/websvc1.connectomes.utah.edu\/RC1\/OData\/$metadata#Structures\/$entity",
+		"ID": 158710,
+		"TypeID": 1,
+		"Notes": "",
+		"Verified": 0,
+		"Tags": null,
+		"Confidence": 0.5,
+		"Version": "AAAAAAbqT+Q=",
+		"ParentID": null,
+		"Created": "2017-08-08T14:03:20.737-06:00",
+		"Label": null,
+		"Username": "abordt          ",
+		"LastModified": "2017-08-08T14:03:20.737-06:00"
+	},
+	"nodes": [
+		[
+			{
+				"ID": 1368128,
+				"ParentID": 158710,
+				"VolumeX": 79347.99,
+				"VolumeY": 88229.41,
+				"Z": 155,
+				"Radius": 131.4040555,
+				"X": 60843.14422,
+				"Y": 96917.36225,
+				"OffEdge": 0,
+				"Terminal": 0,
+				"Geometry": 1,
+				"XYZum": [172.9786182,192.3401138,13.95],
+				"Rum": 0.286460841,
+				"Unique": 0
+			},
+			{
+				"ID": 1368129,
+				"ParentID": 158710,
+				"VolumeX": 79380.82,
+				"VolumeY": 88095.46,
+				"Z": 154,
+				"Radius": 86.60247017,
+				"X": 69176.43995,
+				"Y": 95461.49993,
+				"OffEdge": 0,
+				"Terminal": 0,
+				"Geometry": 1,
+				"XYZum": [173.0501876,192.0481028,13.86],
+				"Rum": 0.188793385,
+				"Unique": 0
+			},
+			{
+				"ID": 1368130,
+				"ParentID": 158710,
+				"VolumeX": 79351.72,
+				"VolumeY": 87729.18,
+				"Z": 153,
+				"Radius": 65.5327429,
+				"X": 67621.3,
+				"Y": 94511.56,
+				"OffEdge": 0,
+				"Terminal": 0,
+				"Geometry": 1,
+				"XYZum": [172.9867496,191.2496124,13.77],
+				"Rum": 0.1428613795,
+				"Unique": 0
+			}
+		]
+	],
+	"edges": [
+		[
+			{
+				"ID": 158710,
+				"A": 1368128,
+				"B": 1368129
+			},
+			{
+				"ID": 158710,
+				"A": 1368129,
+				"B": 1368130
+			}
+		]
+	],
+	"volumeScale": [2.18,2.18,90],
+	"geometries": null,
+	"lastModified": "05-Apr-2019 21:25:55",
+	"omittedIDs": {
+		"_ArrayType_": "double",
+		"_ArraySize_": [0,1],
+		"_ArrayData_": null
+	},
+	"transform": "Viking",
+	"model": null,
+	"terminals": {
+		"_ArrayType_": "double",
+		"_ArraySize_": [0,1],
+		"_ArrayData_": null
+	},
+	"unfinished": [
+		[1368128],
+		[1368130]
+	]
+}

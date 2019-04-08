@@ -1,0 +1,127 @@
+{
+	"synapses": null,
+	"STRUCTURE": "Neuron",
+	"ID": 136057,
+	"source": "RC1",
+	"viking": {
+		"@odata.context": "http:\/\/websvc1.connectomes.utah.edu\/RC1\/OData\/$metadata#Structures\/$entity",
+		"ID": 136057,
+		"TypeID": 1,
+		"Notes": "",
+		"Verified": 0,
+		"Tags": null,
+		"Confidence": 0.5,
+		"Version": "AAAAAAbiioo=",
+		"ParentID": null,
+		"Created": "2016-12-21T18:32:59.21-07:00",
+		"Label": null,
+		"Username": "robertmarc      ",
+		"LastModified": "2016-12-21T18:32:59.21-07:00"
+	},
+	"nodes": [
+		[
+			{
+				"ID": 1330624,
+				"ParentID": 136057,
+				"VolumeX": 79354.35,
+				"VolumeY": 88368.5,
+				"Z": 159,
+				"Radius": 192.3950001,
+				"X": 49164.495,
+				"Y": 21489.545,
+				"OffEdge": 0,
+				"Terminal": 0,
+				"Geometry": 1,
+				"XYZum": [172.992483,192.64333,14.31],
+				"Rum": 0.4194211001,
+				"Unique": 0
+			},
+			{
+				"ID": 1330627,
+				"ParentID": 136057,
+				"VolumeX": 79393.04,
+				"VolumeY": 88351.94,
+				"Z": 158,
+				"Radius": 192.3950001,
+				"X": 59326.845,
+				"Y": 96890.715,
+				"OffEdge": 0,
+				"Terminal": 0,
+				"Geometry": 1,
+				"XYZum": [173.0768272,192.6072292,14.22],
+				"Rum": 0.4194211001,
+				"Unique": 0
+			},
+			{
+				"ID": 1330629,
+				"ParentID": 136057,
+				"VolumeX": 79347.02,
+				"VolumeY": 88359.3,
+				"Z": 157,
+				"Radius": 192.3950001,
+				"X": 62982.215,
+				"Y": 97119.965,
+				"OffEdge": 0,
+				"Terminal": 0,
+				"Geometry": 1,
+				"XYZum": [172.9765036,192.623274,14.13],
+				"Rum": 0.4194211001,
+				"Unique": 0
+			},
+			{
+				"ID": 1330630,
+				"ParentID": 136057,
+				"VolumeX": 79347.61,
+				"VolumeY": 88353.36,
+				"Z": 156,
+				"Radius": 192.3950001,
+				"X": 58310.625,
+				"Y": 97073.045,
+				"OffEdge": 0,
+				"Terminal": 0,
+				"Geometry": 1,
+				"XYZum": [172.9777898,192.6103248,14.04],
+				"Rum": 0.4194211001,
+				"Unique": 0
+			}
+		]
+	],
+	"edges": [
+		[
+			{
+				"ID": 136057,
+				"A": 1330624,
+				"B": 1330627
+			},
+			{
+				"ID": 136057,
+				"A": 1330627,
+				"B": 1330629
+			},
+			{
+				"ID": 136057,
+				"A": 1330629,
+				"B": 1330630
+			}
+		]
+	],
+	"volumeScale": [2.18,2.18,90],
+	"geometries": null,
+	"lastModified": "05-Apr-2019 21:25:53",
+	"omittedIDs": {
+		"_ArrayType_": "double",
+		"_ArraySize_": [0,1],
+		"_ArrayData_": null
+	},
+	"transform": "Viking",
+	"model": null,
+	"terminals": {
+		"_ArrayType_": "double",
+		"_ArraySize_": [0,1],
+		"_ArrayData_": null
+	},
+	"unfinished": [
+		[1330624],
+		[1330630]
+	]
+}

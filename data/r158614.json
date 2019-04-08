@@ -1,0 +1,205 @@
+{
+	"synapses": [
+		[
+			{
+				"ID": 158615,
+				"TypeID": 73,
+				"Tags": null,
+				"ParentID": 158614,
+				"Label": null,
+				"N": 1,
+				"LocalName": "RibbonPre"
+			},
+			{
+				"ID": 158934,
+				"TypeID": 35,
+				"Tags": "Conventional",
+				"ParentID": 158614,
+				"Label": null,
+				"N": 1,
+				"LocalName": "ConvPost"
+			},
+			{
+				"ID": 158935,
+				"TypeID": 35,
+				"Tags": "Conventional",
+				"ParentID": 158614,
+				"Label": null,
+				"N": 1,
+				"LocalName": "ConvPost"
+			}
+		]
+	],
+	"STRUCTURE": "Neuron",
+	"ID": 158614,
+	"source": "RC1",
+	"viking": {
+		"@odata.context": "http:\/\/websvc1.connectomes.utah.edu\/RC1\/OData\/$metadata#Structures\/$entity",
+		"ID": 158614,
+		"TypeID": 1,
+		"Notes": "",
+		"Verified": 0,
+		"Tags": null,
+		"Confidence": 0.5,
+		"Version": "AAAAAAbqHyY=",
+		"ParentID": null,
+		"Created": "2017-08-03T19:17:08.407-06:00",
+		"Label": null,
+		"Username": "abordt          ",
+		"LastModified": "2017-08-03T19:17:08.407-06:00"
+	},
+	"nodes": [
+		[
+			{
+				"ID": 1367528,
+				"ParentID": 158614,
+				"VolumeX": 60926.86,
+				"VolumeY": 81821.49,
+				"Z": 152,
+				"Radius": 246.2828164,
+				"X": 47575.66421,
+				"Y": 82169.67553,
+				"OffEdge": 0,
+				"Terminal": 0,
+				"Geometry": 1,
+				"XYZum": [132.8205548,178.3708482,13.68],
+				"Rum": 0.5368965399,
+				"Unique": 0
+			},
+			{
+				"ID": 1367529,
+				"ParentID": 158614,
+				"VolumeX": 60955.11,
+				"VolumeY": 81775.07,
+				"Z": 151,
+				"Radius": 173.0327695,
+				"X": 49750.01992,
+				"Y": 83096.25543,
+				"OffEdge": 0,
+				"Terminal": 0,
+				"Geometry": 1,
+				"XYZum": [132.8821398,178.2696526,13.59],
+				"Rum": 0.3772114374,
+				"Unique": 0
+			},
+			{
+				"ID": 1367530,
+				"ParentID": 158614,
+				"VolumeX": 60934.94,
+				"VolumeY": 81805.33,
+				"Z": 150,
+				"Radius": 95.43367706,
+				"X": 54747.3443,
+				"Y": 84393.24477,
+				"OffEdge": 0,
+				"Terminal": 0,
+				"Geometry": 1,
+				"XYZum": [132.8381692,178.3356194,13.5],
+				"Rum": 0.208045416,
+				"Unique": 0
+			},
+			{
+				"ID": 1367531,
+				"ParentID": 158614,
+				"VolumeX": 60951.09,
+				"VolumeY": 81793.23,
+				"Z": 149,
+				"Radius": 59.28711214,
+				"X": 69948.86354,
+				"Y": 33058.04704,
+				"OffEdge": 0,
+				"Terminal": 0,
+				"Geometry": 1,
+				"XYZum": [132.8733762,178.3092414,13.41],
+				"Rum": 0.1292459045,
+				"Unique": 0
+			},
+			{
+				"ID": 1367532,
+				"ParentID": 158615,
+				"VolumeX": 61129.95607,
+				"VolumeY": 81773.32816,
+				"Z": 149,
+				"Radius": 42.70986806,
+				"X": 0,
+				"Y": 0,
+				"OffEdge": 0,
+				"Terminal": 0,
+				"Geometry": 5,
+				"XYZum": [133.2633042,178.2658554,13.41],
+				"Rum": 0.09310751237,
+				"Unique": 1
+			},
+			{
+				"ID": 1369575,
+				"ParentID": 158934,
+				"VolumeX": 60790.77306,
+				"VolumeY": 81589.75041,
+				"Z": 152,
+				"Radius": 154.5691969,
+				"X": 0,
+				"Y": 0,
+				"OffEdge": 0,
+				"Terminal": 0,
+				"Geometry": 5,
+				"XYZum": [132.5238853,177.8656559,13.68],
+				"Rum": 0.3369608492,
+				"Unique": 1
+			},
+			{
+				"ID": 1369577,
+				"ParentID": 158935,
+				"VolumeX": 60956.72874,
+				"VolumeY": 81699.85031,
+				"Z": 149,
+				"Radius": 35.9757423,
+				"X": 0,
+				"Y": 0,
+				"OffEdge": 0,
+				"Terminal": 0,
+				"Geometry": 5,
+				"XYZum": [132.8856687,178.1056737,13.41],
+				"Rum": 0.0784271182,
+				"Unique": 1
+			}
+		]
+	],
+	"edges": [
+		[
+			{
+				"ID": 158614,
+				"A": 1367528,
+				"B": 1367529
+			},
+			{
+				"ID": 158614,
+				"A": 1367529,
+				"B": 1367530
+			},
+			{
+				"ID": 158614,
+				"A": 1367530,
+				"B": 1367531
+			}
+		]
+	],
+	"volumeScale": [2.18,2.18,90],
+	"geometries": null,
+	"lastModified": "05-Apr-2019 21:25:39",
+	"omittedIDs": {
+		"_ArrayType_": "double",
+		"_ArraySize_": [0,1],
+		"_ArrayData_": null
+	},
+	"transform": "Viking",
+	"model": null,
+	"terminals": {
+		"_ArrayType_": "double",
+		"_ArraySize_": [0,1],
+		"_ArrayData_": null
+	},
+	"unfinished": [
+		[1367528],
+		[1367531]
+	]
+}

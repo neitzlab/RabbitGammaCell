@@ -1,0 +1,348 @@
+{
+	"synapses": [
+		[
+			{
+				"ID": 128552,
+				"TypeID": 244,
+				"Tags": null,
+				"ParentID": 128311,
+				"Label": null,
+				"N": 1,
+				"LocalName": "Unknown"
+			},
+			{
+				"ID": 128553,
+				"TypeID": 244,
+				"Tags": null,
+				"ParentID": 128311,
+				"Label": "Possible gap junction with omega",
+				"N": 1,
+				"LocalName": "Unknown"
+			}
+		]
+	],
+	"STRUCTURE": "Neuron",
+	"ID": 128311,
+	"source": "RC1",
+	"viking": {
+		"@odata.context": "http:\/\/websvc1.connectomes.utah.edu\/RC1\/OData\/$metadata#Structures\/$entity",
+		"ID": 128311,
+		"TypeID": 1,
+		"Notes": "",
+		"Verified": 0,
+		"Tags": null,
+		"Confidence": 0.5,
+		"Version": "AAAAAAbEtTA=",
+		"ParentID": null,
+		"Created": "2016-04-21T20:35:31.063-06:00",
+		"Label": "BC",
+		"Username": "abordt          ",
+		"LastModified": "2016-07-20T20:32:09.667-06:00"
+	},
+	"nodes": [
+		[
+			{
+				"ID": 1282407,
+				"ParentID": 128311,
+				"VolumeX": 61288.58,
+				"VolumeY": 84756.29,
+				"Z": 182,
+				"Radius": 48.53676902,
+				"X": 58468.20964,
+				"Y": 86617.13863,
+				"OffEdge": 0,
+				"Terminal": 0,
+				"Geometry": 1,
+				"XYZum": [133.6091044,184.7687122,16.38],
+				"Rum": 0.1058101565,
+				"Unique": 0
+			},
+			{
+				"ID": 1282408,
+				"ParentID": 128311,
+				"VolumeX": 61256.47,
+				"VolumeY": 84744.02,
+				"Z": 181,
+				"Radius": 71.87878876,
+				"X": 57441.85657,
+				"Y": 87792.17723,
+				"OffEdge": 0,
+				"Terminal": 0,
+				"Geometry": 1,
+				"XYZum": [133.5391046,184.7419636,16.29],
+				"Rum": 0.1566957595,
+				"Unique": 0
+			},
+			{
+				"ID": 1282409,
+				"ParentID": 128311,
+				"VolumeX": 61257.53,
+				"VolumeY": 84710.88,
+				"Z": 180,
+				"Radius": 84.65030448,
+				"X": 33473.09213,
+				"Y": 75046.6426,
+				"OffEdge": 0,
+				"Terminal": 0,
+				"Geometry": 1,
+				"XYZum": [133.5414154,184.6697184,16.2],
+				"Rum": 0.1845376638,
+				"Unique": 0
+			},
+			{
+				"ID": 1282410,
+				"ParentID": 128311,
+				"VolumeX": 61164.38,
+				"VolumeY": 84671.05,
+				"Z": 178,
+				"Radius": 114.1872606,
+				"X": 67722.65056,
+				"Y": 27333.4021,
+				"OffEdge": 0,
+				"Terminal": 0,
+				"Geometry": 1,
+				"XYZum": [133.3383484,184.582889,16.02],
+				"Rum": 0.248928228,
+				"Unique": 0
+			},
+			{
+				"ID": 1282411,
+				"ParentID": 128311,
+				"VolumeX": 61132.56,
+				"VolumeY": 84691.18,
+				"Z": 177,
+				"Radius": 117.5382469,
+				"X": 47765.22207,
+				"Y": 85265.32115,
+				"OffEdge": 0,
+				"Terminal": 0,
+				"Geometry": 1,
+				"XYZum": [133.2689808,184.6267724,15.93],
+				"Rum": 0.2562333782,
+				"Unique": 0
+			},
+			{
+				"ID": 1282412,
+				"ParentID": 128311,
+				"VolumeX": 61164.37,
+				"VolumeY": 84690.54,
+				"Z": 176,
+				"Radius": 122.2471385,
+				"X": 54627.87428,
+				"Y": 87093.44475,
+				"OffEdge": 0,
+				"Terminal": 0,
+				"Geometry": 1,
+				"XYZum": [133.3383266,184.6253772,15.84],
+				"Rum": 0.2664987619,
+				"Unique": 0
+			},
+			{
+				"ID": 1282413,
+				"ParentID": 128311,
+				"VolumeX": 61163.72,
+				"VolumeY": 84669.38,
+				"Z": 175,
+				"Radius": 110.7167171,
+				"X": 48321.34719,
+				"Y": 87025.69595,
+				"OffEdge": 0,
+				"Terminal": 0,
+				"Geometry": 1,
+				"XYZum": [133.3369096,184.5792484,15.75],
+				"Rum": 0.2413624434,
+				"Unique": 0
+			},
+			{
+				"ID": 1282414,
+				"ParentID": 128311,
+				"VolumeX": 61150.69,
+				"VolumeY": 84610.97,
+				"Z": 174,
+				"Radius": 96.13588037,
+				"X": 58413.99902,
+				"Y": 87296.20937,
+				"OffEdge": 0,
+				"Terminal": 0,
+				"Geometry": 1,
+				"XYZum": [133.3085042,184.4519146,15.66],
+				"Rum": 0.2095762192,
+				"Unique": 0
+			},
+			{
+				"ID": 1282415,
+				"ParentID": 128311,
+				"VolumeX": 61104.48,
+				"VolumeY": 84592.55,
+				"Z": 173,
+				"Radius": 79.46881408,
+				"X": 41719.30597,
+				"Y": 82876.08237,
+				"OffEdge": 0,
+				"Terminal": 0,
+				"Geometry": 1,
+				"XYZum": [133.2077664,184.411759,15.57],
+				"Rum": 0.1732420147,
+				"Unique": 0
+			},
+			{
+				"ID": 1282416,
+				"ParentID": 128311,
+				"VolumeX": 61093.41,
+				"VolumeY": 84568.24,
+				"Z": 172,
+				"Radius": 68.94052658,
+				"X": 52827.76864,
+				"Y": 87772.1696,
+				"OffEdge": 0,
+				"Terminal": 0,
+				"Geometry": 1,
+				"XYZum": [133.1836338,184.3587632,15.48],
+				"Rum": 0.1502903479,
+				"Unique": 0
+			},
+			{
+				"ID": 1282417,
+				"ParentID": 128311,
+				"VolumeX": 61060.11,
+				"VolumeY": 84525.4,
+				"Z": 171,
+				"Radius": 58.02333615,
+				"X": 61335.35573,
+				"Y": 86991.51659,
+				"OffEdge": 0,
+				"Terminal": 0,
+				"Geometry": 1,
+				"XYZum": [133.1110398,184.265372,15.39],
+				"Rum": 0.1264908728,
+				"Unique": 0
+			},
+			{
+				"ID": 1282418,
+				"ParentID": 128311,
+				"VolumeX": 61030.92,
+				"VolumeY": 84515.76,
+				"Z": 170,
+				"Radius": 40.74693229,
+				"X": 52791.74455,
+				"Y": 86248.84754,
+				"OffEdge": 0,
+				"Terminal": 0,
+				"Geometry": 1,
+				"XYZum": [133.0474056,184.2443568,15.3],
+				"Rum": 0.08882831238,
+				"Unique": 0
+			},
+			{
+				"ID": 1283284,
+				"ParentID": 128552,
+				"VolumeX": 61155.47956,
+				"VolumeY": 84813.19856,
+				"Z": 177,
+				"Radius": 33.57880879,
+				"X": 0,
+				"Y": 0,
+				"OffEdge": 0,
+				"Terminal": 0,
+				"Geometry": 5,
+				"XYZum": [133.3189454,184.8927729,15.93],
+				"Rum": 0.07320180317,
+				"Unique": 1
+			},
+			{
+				"ID": 1283285,
+				"ParentID": 128553,
+				"VolumeX": 61290.12565,
+				"VolumeY": 84621.44783,
+				"Z": 178,
+				"Radius": 69.61561319,
+				"X": 0,
+				"Y": 0,
+				"OffEdge": 0,
+				"Terminal": 0,
+				"Geometry": 5,
+				"XYZum": [133.6124739,184.4747563,16.02],
+				"Rum": 0.1517620368,
+				"Unique": 1
+			}
+		]
+	],
+	"edges": [
+		[
+			{
+				"ID": 128311,
+				"A": 1282407,
+				"B": 1282408
+			},
+			{
+				"ID": 128311,
+				"A": 1282408,
+				"B": 1282409
+			},
+			{
+				"ID": 128311,
+				"A": 1282409,
+				"B": 1282410
+			},
+			{
+				"ID": 128311,
+				"A": 1282410,
+				"B": 1282411
+			},
+			{
+				"ID": 128311,
+				"A": 1282411,
+				"B": 1282412
+			},
+			{
+				"ID": 128311,
+				"A": 1282412,
+				"B": 1282413
+			},
+			{
+				"ID": 128311,
+				"A": 1282413,
+				"B": 1282414
+			},
+			{
+				"ID": 128311,
+				"A": 1282414,
+				"B": 1282415
+			},
+			{
+				"ID": 128311,
+				"A": 1282415,
+				"B": 1282416
+			},
+			{
+				"ID": 128311,
+				"A": 1282416,
+				"B": 1282417
+			},
+			{
+				"ID": 128311,
+				"A": 1282417,
+				"B": 1282418
+			}
+		]
+	],
+	"volumeScale": [2.18,2.18,90],
+	"geometries": null,
+	"lastModified": "05-Apr-2019 21:25:30",
+	"omittedIDs": {
+		"_ArrayType_": "double",
+		"_ArraySize_": [0,1],
+		"_ArrayData_": null
+	},
+	"transform": "Viking",
+	"model": null,
+	"terminals": {
+		"_ArrayType_": "double",
+		"_ArraySize_": [0,1],
+		"_ArrayData_": null
+	},
+	"unfinished": [
+		[1282407],
+		[1282418]
+	]
+}

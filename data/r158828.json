@@ -1,0 +1,190 @@
+{
+	"synapses": null,
+	"STRUCTURE": "Neuron",
+	"ID": 158828,
+	"source": "RC1",
+	"viking": {
+		"@odata.context": "http:\/\/websvc1.connectomes.utah.edu\/RC1\/OData\/$metadata#Structures\/$entity",
+		"ID": 158828,
+		"TypeID": 1,
+		"Notes": "",
+		"Verified": 0,
+		"Tags": null,
+		"Confidence": 0.5,
+		"Version": "AAAAAAbq8ig=",
+		"ParentID": null,
+		"Created": "2017-08-15T19:49:25.14-06:00",
+		"Label": null,
+		"Username": "abordt          ",
+		"LastModified": "2017-08-15T19:49:25.14-06:00"
+	},
+	"nodes": [
+		[
+			{
+				"ID": 1368914,
+				"ParentID": 158828,
+				"VolumeX": 68732.49,
+				"VolumeY": 71129.24,
+				"Z": 196,
+				"Radius": 14.49343463,
+				"X": 58789.17278,
+				"Y": 40834.60938,
+				"OffEdge": 0,
+				"Terminal": 0,
+				"Geometry": 1,
+				"XYZum": [149.8368282,155.0617432,17.64],
+				"Rum": 0.03159568749,
+				"Unique": 0
+			},
+			{
+				"ID": 1368915,
+				"ParentID": 158828,
+				"VolumeX": 68735.25,
+				"VolumeY": 71098.91,
+				"Z": 197,
+				"Radius": 26.85643056,
+				"X": 53428.32466,
+				"Y": 46049.52437,
+				"OffEdge": 0,
+				"Terminal": 0,
+				"Geometry": 1,
+				"XYZum": [149.842845,154.9956238,17.73],
+				"Rum": 0.05854701861,
+				"Unique": 0
+			},
+			{
+				"ID": 1368916,
+				"ParentID": 158828,
+				"VolumeX": 68683.53,
+				"VolumeY": 71043.76,
+				"Z": 198,
+				"Radius": 51.82926679,
+				"X": 56522.10816,
+				"Y": 43549.25142,
+				"OffEdge": 0,
+				"Terminal": 0,
+				"Geometry": 1,
+				"XYZum": [149.7300954,154.8753968,17.82],
+				"Rum": 0.1129878016,
+				"Unique": 0
+			},
+			{
+				"ID": 1368917,
+				"ParentID": 158828,
+				"VolumeX": 68674.6,
+				"VolumeY": 71035.48,
+				"Z": 199,
+				"Radius": 51.82926679,
+				"X": 54414.31475,
+				"Y": 45357.47731,
+				"OffEdge": 0,
+				"Terminal": 0,
+				"Geometry": 1,
+				"XYZum": [149.710628,154.8573464,17.91],
+				"Rum": 0.1129878016,
+				"Unique": 0
+			},
+			{
+				"ID": 1368918,
+				"ParentID": 158828,
+				"VolumeX": 68652.52,
+				"VolumeY": 70976.2,
+				"Z": 200,
+				"Radius": 66.08684613,
+				"X": 57437.09977,
+				"Y": 43437.93832,
+				"OffEdge": 0,
+				"Terminal": 0,
+				"Geometry": 1,
+				"XYZum": [149.6624936,154.728116,18],
+				"Rum": 0.1440693246,
+				"Unique": 0
+			},
+			{
+				"ID": 1368919,
+				"ParentID": 158828,
+				"VolumeX": 68624.26,
+				"VolumeY": 71007.22,
+				"Z": 201,
+				"Radius": 59.48289726,
+				"X": 60935.74199,
+				"Y": 73212.48085,
+				"OffEdge": 0,
+				"Terminal": 0,
+				"Geometry": 1,
+				"XYZum": [149.6008868,154.7957396,18.09],
+				"Rum": 0.129672716,
+				"Unique": 0
+			},
+			{
+				"ID": 1368920,
+				"ParentID": 158828,
+				"VolumeX": 68596,
+				"VolumeY": 70946.55,
+				"Z": 202,
+				"Radius": 45.65962047,
+				"X": 58957.23,
+				"Y": 73237.24,
+				"OffEdge": 0,
+				"Terminal": 0,
+				"Geometry": 1,
+				"XYZum": [149.53928,154.663479,18.18],
+				"Rum": 0.09953797263,
+				"Unique": 0
+			}
+		]
+	],
+	"edges": [
+		[
+			{
+				"ID": 158828,
+				"A": 1368914,
+				"B": 1368915
+			},
+			{
+				"ID": 158828,
+				"A": 1368915,
+				"B": 1368916
+			},
+			{
+				"ID": 158828,
+				"A": 1368916,
+				"B": 1368917
+			},
+			{
+				"ID": 158828,
+				"A": 1368917,
+				"B": 1368918
+			},
+			{
+				"ID": 158828,
+				"A": 1368918,
+				"B": 1368919
+			},
+			{
+				"ID": 158828,
+				"A": 1368919,
+				"B": 1368920
+			}
+		]
+	],
+	"volumeScale": [2.18,2.18,90],
+	"geometries": null,
+	"lastModified": "05-Apr-2019 21:25:16",
+	"omittedIDs": {
+		"_ArrayType_": "double",
+		"_ArraySize_": [0,1],
+		"_ArrayData_": null
+	},
+	"transform": "Viking",
+	"model": null,
+	"terminals": {
+		"_ArrayType_": "double",
+		"_ArraySize_": [0,1],
+		"_ArrayData_": null
+	},
+	"unfinished": [
+		[1368914],
+		[1368920]
+	]
+}
